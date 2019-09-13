@@ -1,0 +1,23 @@
+body {
+	background-image: url("image1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+th {
+	background-color: rgb(254, 85, 85);
+}
+#p1 {
+	background-color: lightblue;
+}
+#p2 {
+	background-color: palegreen;
+}
+#p3 {
+	background-color: lightblue;
+}
+#p4 {
+	background-color: palegreen;
+}
+#p5 {
+	background-color: lightblue;
+}
